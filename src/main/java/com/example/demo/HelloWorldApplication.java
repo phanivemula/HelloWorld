@@ -8,7 +8,7 @@ public class HelloWorldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldApplication.class, args);
-		System.out.println("Hhi Hello Phaneendra (phani) Kumar Vemula");
+		System.out.println("hHhi Hello Phaneendra (phani) Kumar Vemula");
 	}
 
 }
